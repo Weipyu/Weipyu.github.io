@@ -1,0 +1,72 @@
+*{
+	margin:0;
+	padding:0;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style:none;
+}
+
+#header{
+	background-color: #e8346b;
+}
+#banner{
+	background: url(images/unsplash.jpg) no-repeat  center -350px;
+	height:550px;
+}
+#main{
+	
+}
+#footer{
+	background-color: #e8346b;
+}
+
+.about{
+	background-color:#aaffff;
+}
+.skill{
+	background-color:#ffff7f;
+}
+.works{
+	background-color:#aaffff;
+}
+.experience{
+	background-color:#ffff7f;
+}
+.w1180{
+	width:1180px;
+	margin:0 auto;
+	overflow:hidden;
+}
+.left{
+	float:left;
+	width:400px;
+}
+.right{
+	float:left;
+	width:780px;
+	background-color:palevioletred;
+}
+.left img{
+	width:400px;
+	display:block;
+}
+
+.box{
+	width:295px;
+	height:150px;
+	float:left;
+}
+.box img{
+	width:80px;
+}
+.box .left2{
+	float:left;
+	width:80px;
+}
+.box .right2{
+	float:left;
+	width:215px;
+}
